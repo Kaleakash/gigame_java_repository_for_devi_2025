@@ -1,0 +1,18 @@
+
+public class OperatorExamples {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=10;
+		int b=20;
+		int sum;
+		sum = a+b;
+		System.out.println("Sum of two number is "+sum);
+		boolean result1;
+		result1 = a>b;
+		System.out.println("Result of a>b is "+result1);
+		a++;
+		System.out.println("Value of a after increment is "+a);
+	}
+
+}

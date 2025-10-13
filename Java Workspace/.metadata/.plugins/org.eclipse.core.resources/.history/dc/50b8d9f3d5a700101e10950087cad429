@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class TakingTheValueThroughKeyboard {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter the value of a:");
+		int a= obj.nextInt();	// it scan int value through keyboard
+		System.out.println("The value of b");
+		int b = obj.nextInt();
+		int sum = a+b;
+		System.out.println("The sum of a and b is: "+sum);
+		String msg = "Welcome to Java Training";
+		char ch =  'a';
+		System.out.println(msg);
+		System.out.println(ch);
+		System.out.println("Enter your name");
+		String fname  = obj.next();
+		sysout.println("Welcome "+fname);
+	}
+
+}
