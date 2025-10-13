@@ -1,0 +1,12 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Welcome to Java Programming once again");
+		System.out.println("My Name is Akash Kale");
+		System.out.println("I am from Bangalore");
+		System.out.println("I am learning Java Programming");
+	}
+
+}

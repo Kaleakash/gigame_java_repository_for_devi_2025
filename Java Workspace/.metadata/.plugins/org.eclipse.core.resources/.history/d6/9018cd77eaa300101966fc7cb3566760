@@ -1,0 +1,10 @@
+
+public class DataTypesExample {
+
+	public static void main(String[] args) {
+		int age=21;
+		double price = 10.99;
+		
+	}
+
+}
