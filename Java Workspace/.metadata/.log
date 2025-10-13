@@ -4408,3 +4408,9 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-10-13 07:27:29.483
 !MESSAGE [Info]	[code-referencing] No match found
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-10-13 07:31:09.080
+!MESSAGE [Info] Document is null for editor: ArrayExamples.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-10-13 07:31:09.080
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/Desktop/GigaMe%20Java%20Training/Devi/Java%20Workspace/BasicJavaProgramming/src/ArrayExamples.java
