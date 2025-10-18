@@ -12,6 +12,17 @@ public class ArrayExamples {
 		System.out.println(num[2]);
 		String names[]= {"John","Smith","David","Peter","Jane"};
 		System.out.println(names[0]);
+		int abc[]=new int[5]; // array memory created
+		System.out.println(abc[0]);
+		System.out.println(abc[4]);
+		//System.out.println(abc[5]);
+		abc[0]=100;
+		abc[1]=200;
+		abc[2]=300;
+		abc[3]=400;
+		abc[4]=500;
+		System.out.println(abc[0]);
+		System.out.println(abc[4]);
 	}
 
 }

@@ -21,7 +21,7 @@ public class TakingTheValueThroughKeyboard {
 		System.out.println("Enter your full name");
 		String fullname = obj.nextLine();	// it scan full line through keyboard, enter keyword. 
 		System.out.println("Welcome "+fullname);
-		
+		obj.close();
 	}
 
 }
