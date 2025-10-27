@@ -9,6 +9,7 @@ private String name;
 private double salary;
 
 Scanner scanner = new Scanner(System.in);
+Address address = new Address();			// Employee HAS-A Address
 
 public void readEmp() {
 	System.out.print("Enter Employee ID: ");
