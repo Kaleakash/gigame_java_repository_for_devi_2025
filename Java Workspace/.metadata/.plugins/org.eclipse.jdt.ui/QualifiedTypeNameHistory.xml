@@ -5,4 +5,9 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="finalkeyword.Bus"/>
     <fullyQualifiedTypeName name="statickeyword.Employee"/>
+    <fullyQualifiedTypeName name="com.downleveltypecating.BankService"/>
+    <fullyQualifiedTypeName name="com.downleveltypecating.Bank"/>
+    <fullyQualifiedTypeName name="com.downleveltypecating.Hdfc"/>
+    <fullyQualifiedTypeName name="com.downleveltypecating.Sbi"/>
+    <fullyQualifiedTypeName name="thisandsuper.Employee"/>
 </qualifiedTypeNameHistroy>
