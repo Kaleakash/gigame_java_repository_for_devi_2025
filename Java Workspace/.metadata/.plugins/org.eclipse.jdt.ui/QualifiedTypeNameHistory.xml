@@ -10,4 +10,7 @@
     <fullyQualifiedTypeName name="com.downleveltypecating.Hdfc"/>
     <fullyQualifiedTypeName name="com.downleveltypecating.Sbi"/>
     <fullyQualifiedTypeName name="thisandsuper.Employee"/>
+    <fullyQualifiedTypeName name="education.school.Attendance"/>
+    <fullyQualifiedTypeName name="education.college.Attendance"/>
+    <fullyQualifiedTypeName name="com.bean.Employee"/>
 </qualifiedTypeNameHistroy>
