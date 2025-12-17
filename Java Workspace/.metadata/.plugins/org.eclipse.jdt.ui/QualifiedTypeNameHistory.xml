@@ -21,6 +21,8 @@
     <fullyQualifiedTypeName name="copyconstructor.Employee"/>
     <fullyQualifiedTypeName name="java.lang.ThreadGroup"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="booking.TicketBooking"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
 </qualifiedTypeNameHistroy>
