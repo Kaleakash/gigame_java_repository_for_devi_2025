@@ -24,5 +24,8 @@
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="booking.TicketBooking"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executor"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
 </qualifiedTypeNameHistroy>
