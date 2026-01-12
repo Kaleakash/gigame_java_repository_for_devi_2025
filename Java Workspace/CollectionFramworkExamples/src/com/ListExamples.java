@@ -36,7 +36,7 @@ public class ListExamples {
 //		System.out.println(ll);
 		
 		Stack ss = new Stack();
-		ss.push(100);
+		ss.push(100);				
 		ss.push(200);
 		ss.push(300);
 		System.out.println(ss);
